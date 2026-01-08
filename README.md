@@ -27,3 +27,7 @@ uvicorn app:app --reload
 - No real market integration
 
 Swagger UI available at: http://127.0.0.1:8000/docs
+
+<img width="1467" height="880" alt="image" src="https://github.com/user-attachments/assets/14cfa8f2-11f0-43b7-84f0-082ae1653437" />
+
+
